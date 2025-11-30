@@ -1,2 +1,2 @@
-# cake1
+# index
 cake shop
